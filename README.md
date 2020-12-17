@@ -11,6 +11,7 @@ We will use open data from one source:
 * Opportunity Atalas: this research group constructs ["publicly available atlas of children's outcomes in adulthood by Census tract using anonymized longitudinal data covering nearly the entire U.S. population".](https://opportunityinsights.org/paper/the-opportunity-atlas/) 
 
   i. Original open data on household income for families in Baltimore City and Washington D.C.
+  
   ii. Original open data on household income for families who have stayed in the same commuting zone in Baltimore City and Washington D.C.
   
 ## Data Answer - Visualizations

@@ -16,7 +16,7 @@ We will use open data from one source:
 ## Data Answer - Visualizations
 
 ### What are the median household income of families and that of families who stayed in the same commuting zone?
-![alt_text]()
+![alt_text](https://github.com/schoi74/python-average-incomes-and-distribution-of-tracts-in-Baltimore-City-and-Washington-DC/blob/main/average%20incomes.png)
 
 ### What does the distribution of tracts in Baltimore City look like based on the median income?
 ![alt_text]()

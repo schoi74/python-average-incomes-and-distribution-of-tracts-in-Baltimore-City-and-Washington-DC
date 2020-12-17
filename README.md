@@ -22,4 +22,4 @@ We will use open data from one source:
 ![alt_text](https://github.com/schoi74/python-average-incomes-and-distribution-of-tracts-in-Baltimore-City-and-Washington-DC/blob/main/histogram%20Baltimore.png)
 
 ### What does the distribution of tracts in Washington D.C. look like based on the median income?
-![alt_text]()
+![alt_text](https://github.com/schoi74/python-average-incomes-and-distribution-of-tracts-in-Baltimore-City-and-Washington-DC/blob/main/histogram%20DC.png)
